@@ -1,0 +1,9 @@
+# Optional machine-local overrides. Null uses the HuggingFace ID in models.yaml.
+# Keep private filesystem paths out of distributed copies.
+model_paths:
+  llama3-8b: null
+  mistral-7b: null
+  qwen25-7b: null
+  gemma2-9b: null
+  qwen25-14b: null
+  phi4-14b: null
