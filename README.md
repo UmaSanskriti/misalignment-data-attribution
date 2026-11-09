@@ -1,4 +1,4 @@
-# Tracing training data behind emergent misalignment
+# Misalignment Data Attribution
 
 Harvard CS 2881r · Fall 2026 · Collaborative reproduction and extensions
 
